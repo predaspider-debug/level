@@ -1,0 +1,11 @@
+{
+  "success": false,
+  "message": "Logged in!",
+  "info": {
+    "username": "none",
+    "hwid": "not found",
+    "created": "no",
+    "ip": "invalid",
+    "remaining": "0"
+  }
+}
